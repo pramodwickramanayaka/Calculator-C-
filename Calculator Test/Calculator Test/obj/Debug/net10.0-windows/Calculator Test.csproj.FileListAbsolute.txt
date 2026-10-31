@@ -1,0 +1,17 @@
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\bin\Debug\net10.0-windows\Calculator Test.exe
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\bin\Debug\net10.0-windows\Calculator Test.deps.json
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\bin\Debug\net10.0-windows\Calculator Test.runtimeconfig.json
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\bin\Debug\net10.0-windows\Calculator Test.dll
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\bin\Debug\net10.0-windows\Calculator Test.pdb
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator_Test.Form1.resources
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.csproj.GenerateResource.cache
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.AssemblyInfoInputs.cache
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.AssemblyInfo.cs
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.csproj.CoreCompileInputs.cache
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.dll
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\refint\Calculator Test.dll
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.pdb
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculator Test.genruntimeconfig.cache
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\ref\Calculator Test.dll
+C:\Users\AshRock\source\repos\Calculator Test\Calculator Test\obj\Debug\net10.0-windows\Calculat.99CD480E.Up2Date
